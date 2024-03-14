@@ -1,0 +1,36 @@
+body{
+    display: block;
+    box-sizing: border-box;
+}
+.content-tab label{
+    padding: 10px 10px;
+    display: block;
+}
+.content-tab select{
+    margin-left: 10px;
+    width: 200px;
+    padding: 5px 5px;
+}
+.content-tab input{
+    margin-left: 10px;
+    margin-bottom:10px ;
+    padding: 5px 5px;
+    width: 200px;
+}
+.group-btn{
+    display: flex;
+    justify-content: space-between;
+    margin-top: 30px;
+}
+.result{
+    display: flex;
+}
+.result label{
+    padding: 10px 10px;
+    width: 30%;
+}
+.result .pre-order{
+    border: 1px solid #000;
+    width: 50%;
+    padding:10px 10px;
+}
